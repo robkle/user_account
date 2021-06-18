@@ -30,3 +30,13 @@ Configure config/email.php
   $EM_USER = ''; //<- Insert email account username                         
   $EM_PASSWD = ''; //<- Insert email account password                                  
   ```
+  ## Screenshots:  
+ 
+ <details>
+  <summary>Screenshots</summary>
+  <img src="screenshots/signup.png" name="signup" width="350">
+  <img src="screenshots/login.png" name="login" width="350">
+  <img src="screenshots/index.png" name="index" width="700">
+  <img src="screenshots/psswd.png" name="psswd" width="350">
+  <img src="screenshots/modify.png" name="modify" width="350">
+</details>
